@@ -1,6 +1,7 @@
 # ScanBookFrontEnd
 Scan book Front end assessment.
 Using index.html or scanbook.php as main page.
+When search the Book ISBN, will use AJAX to send request. And go to the PHP pages for searching relative data. 
 
 Establish table 
 CREATE TABLE `scanbook_front_book` (
